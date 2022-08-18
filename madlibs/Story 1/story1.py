@@ -1,4 +1,3 @@
-###test 3 push
 # Strings
 adj1 = input("Adjektive: ")
 adj2 = input("Adjektive: ")
